@@ -24,6 +24,33 @@ common:
     url: https://www.dominionenergy.com
   - type: Related Repository
     url: https://github.com/api-evangelist/dominion-energy
+  - type: Integrations
+    url: https://www.dominionenergy.com/marketplace
+integrations:
+  - name: Skip to main content
+  - name: Dominion Energy
+  - name: location-icon
+  - name: search-icon
+  - name: login-icon
+  - name: expand-navigation
+  - name: alert-icon
+  - name: support-icon
+  - name: dropdown-arrow
+  - name: arrow
+  - name: NC Tile Desktop
+  - name: NC Tile Mobile
+  - name: SC Tile Desktop
+  - name: SC Tile Mobile
+  - name: VA Tile
+  - name: VA Tile Mobile
+  - name: Washing clothes
+  - name: Lowes
+  - name: Dollar Tree
+  - name: Habitat for Humanity
+  - name: The Salvation Army
+  - name: Goodwill
+  - name: Home Depot
+  - name: bulb
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
