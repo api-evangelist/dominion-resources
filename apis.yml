@@ -20,6 +20,8 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/dominion-resources-inc
   - type: Website
     url: https://www.dominionenergy.com
   - type: Related Repository
