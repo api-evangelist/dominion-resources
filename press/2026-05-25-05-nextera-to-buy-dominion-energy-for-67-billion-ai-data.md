@@ -1,7 +1,9 @@
 ---
 title: NextEra to Buy Dominion Energy for $67 Billion. AI Data ...
 url: https://news.futunn.com/en/post/73268628/nextera-to-buy-dominion-energy-for-67-billion-ai-data
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Dominion Resources" press release artificial intelligence'
 position: 5
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: AI-driven electricity demand sparks a wave of utility ...
 url: https://www.moomoo.com/news/post/70205860/ai-driven-electricity-demand-sparks-a-wave-of-utility-mergers
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Dominion Resources" press release artificial intelligence'
 position: 3
 source: serpapi-google

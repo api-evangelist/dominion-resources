@@ -1,7 +1,9 @@
 ---
 title: NextEra Energy is seeking to acquire Dominion ...
 url: https://www.facebook.com/WMBBTV/posts/nextera-energy-is-seeking-to-acquire-dominion-energy-in-an-all-stock-deal-valued/1424991343006673/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Dominion Resources" press release artificial intelligence'
 position: 1
 source: serpapi-google

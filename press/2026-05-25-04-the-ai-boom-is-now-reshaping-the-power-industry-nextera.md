@@ -1,7 +1,9 @@
 ---
 title: The AI boom is now reshaping the power industry. NextEra ...
 url: https://www.instagram.com/reel/DYgCllOAcy8/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Dominion Resources" press release artificial intelligence'
 position: 4
 source: serpapi-google
